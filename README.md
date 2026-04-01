@@ -1,4 +1,4 @@
-```markdown
+markdown
 # Netflix Clone
 
 This project is a front-end clone inspired by the Netflix interface, developed during the Alura Frontend Immersion. It reproduces key aspects of a streaming platform experience, including profile selection and dynamic content browsing.
